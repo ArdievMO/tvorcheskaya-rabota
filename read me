@@ -1,0 +1,10 @@
+Comi:
+  comi.pro
+  comi.h
+  mainComi.cpp
+  comi.cpp
+Calculator:
+  Calc2.pro
+  mainwindow.h
+  mainCalculator.cpp
+  mainwindow.cpp
